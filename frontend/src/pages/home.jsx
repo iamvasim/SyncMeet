@@ -33,7 +33,7 @@ function HomeComponent() {
                 <div className='homeNavbarLeft'>
 
                     <div className='homeLogoBox'>
-                        C
+                        S
                     </div>
 
                     <h2>SyncMeet</h2>
