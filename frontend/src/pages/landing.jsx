@@ -134,7 +134,7 @@ export default function LandingPage() {
           {/* Left */}
           <div className="meetingFooterLeft">
             <div className="meetingFooterLogo">
-              <div className="meetingFooterLogoBox">C</div>
+              <div className="meetingFooterLogoBox">S</div>
 
               <div>
                 <h2>SyncMeet</h2>
