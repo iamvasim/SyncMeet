@@ -23,7 +23,7 @@ export default function LandingPage() {
 
     <div className="landingBrandContainer">
 
-        <h2>Connectify</h2>
+        <h2>SyncMeet</h2>
 
         <span>
             Secure Virtual Meetings
@@ -137,7 +137,7 @@ export default function LandingPage() {
               <div className="meetingFooterLogoBox">C</div>
 
               <div>
-                <h2>Connectify</h2>
+                <h2>SyncMeet</h2>
                 <p>Virtual meetings made simple & secure.</p>
               </div>
             </div>
@@ -180,7 +180,7 @@ export default function LandingPage() {
 
         {/* Bottom */}
         <div className="meetingFooterBottom">
-          <p>© 2026 Connectify — Built for seamless communication.</p>
+          <p>© 2026 SyncMeet — Built for seamless communication.</p>
         </div>
       </footer>
     </div>

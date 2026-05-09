@@ -36,7 +36,7 @@ function HomeComponent() {
                         C
                     </div>
 
-                    <h2>Connectify</h2>
+                    <h2>SyncMeet</h2>
 
                 </div>
 

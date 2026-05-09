@@ -89,7 +89,7 @@ export default function Authentication() {
                                 C
                             </div>
     
-                            <h1>Connectify</h1>
+                            <h1>SyncMeet</h1>
     
                         </div>
     

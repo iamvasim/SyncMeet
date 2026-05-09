@@ -530,7 +530,7 @@ export default function VideoMeetComponent() {
 
                             <div className={styles.chatHeader}>
                                 <h1>Meeting Chat</h1>
-                                <p>Connectify Messaging</p>
+                                <p>SyncMeet Messaging</p>
                             </div>
 
                             <div className={styles.chattingDisplay}>

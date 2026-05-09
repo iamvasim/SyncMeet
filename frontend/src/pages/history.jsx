@@ -74,7 +74,7 @@ export default function History() {
 
                     <div>
                         <h2>Meeting History</h2>
-                        <p>Your recent Connectify meetings</p>
+                        <p>Your recent SyncMeet meetings</p>
                     </div>
 
                 </div>
