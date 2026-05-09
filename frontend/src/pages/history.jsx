@@ -69,7 +69,7 @@ export default function History() {
                 <div className='historyNavbarLeft'>
 
                     <div className='historyLogoBox'>
-                        C
+                        S
                     </div>
 
                     <div>
