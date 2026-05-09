@@ -18,7 +18,7 @@ export default function LandingPage() {
 <div className="landingNavHeader">
 
     <div className="landingLogoBox">
-        C
+        S
     </div>
 
     <div className="landingBrandContainer">
